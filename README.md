@@ -17,7 +17,7 @@ I'm currently working as a Analyst at Telearte ...
 - MongoDB
 
 ## 🤟 You can find me on:
-  <a href="https://www.linkedin.com/in/sapficonsultant" target="blank">
+  <a href="https://www.linkedin.com/in/sapficonsultant" target="blank" rel="noopener">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
   </a>
 </p>
