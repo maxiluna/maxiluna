@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋, I'm Maxi 👨‍💻 System Analyst and Python Developer
+## 👉 What I'm doing now?
+I'm currently working as a Analyst at Telearte ... 
 
-<!--
-**maxiluna/maxiluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍🏫 Education :
+- UTN e-learning center: Python diploma (180 h)
+- UNSAM - Programing on Python (96 hr)
+- Coursera: Professional certificates - Google it automation (GOOGLE)
+- Coursera: specializations - Programming Python for Everybody (UNIVERSITY OF MICHIGAN)
+- Coursera: Learn SQL Basics for Data Science (UNIVERSITY OF CALIFORNIA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🤓 What's next? (LEARNING) :
+- Odoo, Django, Several Framework's and Libraries
+- Angular
+- MongoDB
+
+## 🤟 You can find me on:
+  <a href="https://www.linkedin.com/in/sapficonsultant" target="blank">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
+  </a>
+</p>
+
