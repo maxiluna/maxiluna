@@ -7,9 +7,11 @@ I'm currently working as a Analyst at Telearte ...
 - UTN e-learning center: Python diploma (180 h)
 - UNSAM - Programing on Python (96 hr)
 - Coursera: Professional certificates - Google it automation (GOOGLE)
- - Crash Course on Python   
+  - Crash Course on Python   
 - Coursera: specializations - Programming Python for Everybody (UNIVERSITY OF MICHIGAN)
+  - Programming for Everybody
 - Coursera: Learn SQL Basics for Data Science (UNIVERSITY OF CALIFORNIA)
+  - What is Data Science? 
 
 
 ## 🤓 What's next? (LEARNING) :
