@@ -25,3 +25,6 @@ I'm currently working as a Analyst at Telearte ...
   </a>
 </p>
 
+<a href="https://github.com/maxiluna"><img width="400" src="https://github-readme-stats.vercel.app/api?username=maxiluna&show_icons=true&theme=default_repocard&hide=stars">
+<a href="https://github.com/maxiluna"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiluna&hide=html,scss,css&langs_count=10&layout=compact&theme=default_repocard">
+    
